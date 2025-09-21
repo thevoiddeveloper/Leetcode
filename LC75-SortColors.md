@@ -70,7 +70,7 @@ class Solution:
 
 ## C++ Solution 
 
-```
+```c++
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
