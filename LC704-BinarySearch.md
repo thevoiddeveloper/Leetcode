@@ -1,4 +1,6 @@
-# Java Solution
+# 704- Binary Search
+
+## Java Solution
 
 ```java
 class Solution {
